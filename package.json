@@ -3,7 +3,7 @@
   "repository": "none",
   "license": "UNLICENSED",
   "version": "1.0.0",
-  "description": "Rollup plugin that formats build messages according to Azure DevOps pipeline specifications so that warnings are tagged appropriately in build logs",
+  "description": "Rollup plugin that formats build messages using Azure DevOps pipelines logging commands so that warnings are tagged appropriately in build logs",
   "author": {
     "name": "Medicomp",
     "email": "support@medicomp.com"
