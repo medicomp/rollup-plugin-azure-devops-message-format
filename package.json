@@ -1,8 +1,8 @@
 {
   "name": "rollup-plugin-azure-devops-message-format",
-  "repository": "none",
-  "license": "UNLICENSED",
-  "version": "1.0.0",
+  "repository": "https://github.com/medicomp/rollup-plugin-azure-devops-message-format",
+  "license": "MIT",
+  "version": "1.0.1",
   "description": "Rollup plugin that formats build messages using Azure DevOps pipelines logging commands so that warnings are tagged appropriately in build logs",
   "author": {
     "name": "Medicomp",
